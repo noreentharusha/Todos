@@ -1,0 +1,9 @@
+.todos {
+  display: flex;
+  padding-bottom: 10px;
+  justify-content: space-between;
+  align-items: center;
+}
+.MuiToggleButton-root {
+  height: 40px;
+}
